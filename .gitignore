@@ -2,6 +2,4 @@
 *.rej
 *.o
 dmenu
-dmenu_run
-dmenu_path
 stest
